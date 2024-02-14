@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\bin\Debug\net8.0\Ocenki.exe
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\bin\Debug\net8.0\Ocenki.deps.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\bin\Debug\net8.0\Ocenki.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\bin\Debug\net8.0\Ocenki.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\bin\Debug\net8.0\Ocenki.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\refint\Ocenki.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\Ocenki.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Arrays\Ocenki\obj\Debug\net8.0\ref\Ocenki.dll
